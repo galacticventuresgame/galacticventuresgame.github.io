@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_includes",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_includes\\head.html",
   "PreviewInSolutionExplorer": false
 }
