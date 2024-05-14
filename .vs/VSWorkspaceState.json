@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\_includes",
-    "\\_layouts"
+    "\\_layouts",
+    "\\_pages",
+    "\\_sass"
   ],
-  "SelectedNode": "\\_includes\\head.html",
+  "SelectedNode": "\\_pages\\termsandconditions.md",
   "PreviewInSolutionExplorer": false
 }
