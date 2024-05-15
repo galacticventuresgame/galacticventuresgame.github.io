@@ -13,7 +13,7 @@ presskit_download_link                    :     # Enter a link to downloadable f
 app_icon                                  :  assets/icon.png    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Galactic Ventures   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Galactic Ventures offers a rich and engaging experience for players who dream of exploring the stars. With its combination of mining, trading, exploration, and crafting, the game provides endless opportunities for adventure and discovery. Whether you become a master trader, a renowned explorer, or a powerful spacefarer, the galaxy is yours to conquer. Embark on your Galactic Ventures today and carve your legacy among the stars.
 
 enable_smart_app_banner                   : true    # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,9 +36,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Example feature
-    description                           : Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Asteroid Mining
+    description                           : Extract valuable minerals and resources from asteroids using advanced mining equipment.
+    fontawesome_icon_name                 : rocket
+
+  - title                                 : Trading at Space Stations
+    description                           : Engage in dynamic trade with various space stations, buying and selling a wide range of goods. Navigate a complex economy with fluctuating prices based on supply, demand, and other factors.
+    fontawesome_icon_name                 : rocket
+
+  - title                                 : Procedurally Generated Galaxy
+    description                           : Explore a vast, unique galaxy with each playthrough offering different star systems, planets, and encounters.
+    fontawesome_icon_name                 : rocket
+
+  - title                                 : Crafting Advanced Technologies
+    description                           : Use resources and blueprints to craft upgrades and advanced technologies for your spacecraft. Enhance your ship’s engines, shields, weapons, and other capabilities.
+    fontawesome_icon_name                 : rocket
+
+  - title                                 : Exploration and Discovery
+    description                           : Investigate derelict spacecraft, mysterious ruins, and uncharted planets to uncover valuable artifacts and data logs. Experience rich storylines that reveal the history of the universe and its lost civilizations.
+    fontawesome_icon_name                 : rocket
+
+  - title                                 : Customizable Spaceship
+    description                           : Customize your spacecraft with various modules and enhancements to suit your preferred playstyle. Choose between different ship configurations, such as heavily armored mining vessels or fast trading ships.
+    fontawesome_icon_name                 : rocket
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
