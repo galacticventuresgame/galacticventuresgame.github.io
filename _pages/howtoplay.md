@@ -16,7 +16,7 @@ include_in_header: true
 
 When you start a new game the galaxy needs to generate. This includes all the stars. The planets, the asteroid belts, and spacestations that orbit the stars. Individual asteroids in each belt. Spacestation price lists, items for sale, and jobs.
 
-Please allow time for the new game to generate. This can five mintues or longer on older phones. You will see progress as you wait. If you don't see the progress bar moving for quite a while (more than 15 seconds) something might have gone wrong (the game is still in Beta), in which case please close the game and start again.
+Please allow time for the new game to generate. This can take five mintues or longer on older phones. You will see progress as you wait. If you don't see the progress bar moving for quite a while (more than 15 seconds) something might have gone wrong (the game is still in Beta), in which case please close the game and start again.
 
 ## Flight controls
 
